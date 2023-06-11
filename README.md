@@ -2,12 +2,14 @@
 
 <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
-🔥🔥🔥 We have compiled a carefully curated collection of Multimodal Large Language Models (MLLM) resources.<b>This includes datasets, techniques for tuning multimodal instructions,<b>methods for multimodal in-context learning, approaches for multimodal chain-of-thought, <b>visual reasoning with the assistance of large language models, foundational models, and more.
+✨✨✨ Behold our meticulously curated trove of Multimodal Large Language Models (MLLM) resources! 📚🔍 Feast your eyes on an assortment of datasets, techniques for tuning multimodal instructions, methods for multimodal in-context learning, approaches for multimodal chain-of-thought, visual reasoning aided by gargantuan language models, foundational models, and much more. 🌟🔥
 
-🔥🔥🔥 We will continually update this list to ensure it remains up-to-date with the latest developments in the field.
+✨✨✨ This compilation shall forever stay in sync with the vanguard of breakthroughs in the realm of MLLM. 🔄 We are committed to its perpetual evolution, ensuring that you never miss out on the latest developments. 🚀💡
 
-🔥🔥🔥 Additionally, we are in the process of preparing a survey paper on MLLM, which will be published soon. Stay tuned for its release!
+✨✨✨ And hold your breath, for we are diligently crafting a survey paper on MLLM, which shall soon grace the world with its wisdom. Stay tuned for its grand debut! 🎉📑
 
+<br>
+---
 ![](/resources/LLMS.png)
 ---
 
