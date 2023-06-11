@@ -8,8 +8,6 @@
 
 ✨✨✨ And hold your breath, for we are diligently crafting a survey paper on MLLM, which shall soon grace the world with its wisdom. Stay tuned for its grand debut! 🎉📑
 
-<br>
----
 ![](/resources/LLMS.png)
 ---
 
