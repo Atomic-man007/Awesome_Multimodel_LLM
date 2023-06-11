@@ -8,10 +8,7 @@
 
 🔥🔥🔥 Additionally, we are in the process of preparing a survey paper on MLLM, which will be published soon. Stay tuned for its release!
 
-<p align="center">
-  <img src="https://github.com/Atomic-man007/Awesome_Multimodel_LLM/resources/LLMS.png"/>
-</p>
-
+![](/resources/LLMS.png)
 ---
 
 <font size=5><center><b> Table of Contents </b> </center></font>
