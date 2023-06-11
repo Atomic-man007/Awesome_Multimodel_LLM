@@ -1,4 +1,5 @@
-# Awesome-Multimodal-Large-Language-Models
+# Awesome-Multimodal-LLM
+
 
 <font size=6><center><big><b> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) </b></big></center></font>
 
