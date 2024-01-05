@@ -26,6 +26,7 @@
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
   - [Datasets of In-Context Learning](#datasets-of-in-context-learning)
   - [Datasets of Multimodal Chain-of-Thought](#datasets-of-multimodal-chain-of-thought)
+  - [Dataset](#RLHFdataset)
 
 ---
 ## Trending LLM Projects
@@ -417,3 +418,47 @@
 | **EgoCOT** | [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/pdf/2305.15021.pdf) | [Coming soon](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) | Large-scale embodied planning dataset |
 | **VIP** | [Let’s Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction](https://arxiv.org/pdf/2305.13903.pdf) | [Coming soon]() | An inference-time dataset that can be used to evaluate VideoCOT |
 | **ScienceQA** | [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering](https://proceedings.neurips.cc/paper_files/paper/2022/file/11332b6b6cf4485b84afadb1352d3a9a-Paper-Conference.pdf) | [Link](https://github.com/lupantech/ScienceQA#ghost-download-the-dataset) | Large-scale multi-choice dataset, featuring multimodal science questions and diverse domains | 
+
+## RLHFdataset
+
+- [HH-RLHF](https://github.com/anthropics/hh-rlhf)
+  - Ben Mann, Deep Ganguli
+  - Keyword: Human preference dataset, Red teaming data, machine-written
+  - Task: Open-source dataset for human preference data about helpfulness and harmlessness
+- [Stanford Human Preferences Dataset(SHP)](https://huggingface.co/datasets/stanfordnlp/SHP)
+  - Ethayarajh, Kawin and Zhang, Heidi and Wang, Yizhong and Jurafsky, Dan
+  - Keyword: Naturally occurring and human-written dataset,18 different subject areas
+  - Task: Intended to be used for training RLHF reward models
+- [PromptSource](https://github.com/bigscience-workshop/promptsource)
+  - Stephen H. Bach, Victor Sanh, Zheng-Xin Yong et al.
+  - Keyword: Prompted English datasets,  Mapping a data example into natural language
+  - Task:  Toolkit for creating, Sharing and using natural language prompts
+- [Structured Knowledge Grounding(SKG) Resources Collections](https://unifiedskg.com/)
+  - Tianbao Xie, Chen Henry Wu, Peng Shi et al.
+  - Keyword: Structured Knowledge Grounding
+  - Task:  Collection of datasets are related to structured knowledge grounding
+- [The Flan Collection](https://github.com/google-research/FLAN/tree/main/flan/v2)
+  - Longpre Shayne, Hou Le, Vu Tu et al.
+  - Task: Collection compiles datasets from Flan 2021, P3, Super-Natural Instructions 
+- [rlhf-reward-datasets](https://huggingface.co/datasets/yitingxie/rlhf-reward-datasets)
+  - Yiting Xie
+  - Keyword: Machine-written dataset
+- [webgpt_comparisons](https://huggingface.co/datasets/openai/webgpt_comparisons)
+  - OpenAI
+  - Keyword: Human-written dataset, Long form question answering 
+  - Task:  Train a long form question answering model to align with human preferences
+- [summarize_from_feedback](https://huggingface.co/datasets/openai/summarize_from_feedback)
+  - OpenAI
+  - Keyword: Human-written dataset, summarization
+  - Task:  Train a summarization model to align with human preferences
+- [Dahoas/synthetic-instruct-gptj-pairwise](https://huggingface.co/datasets/Dahoas/synthetic-instruct-gptj-pairwise)
+  - Dahoas
+  - Keyword: Human-written dataset, synthetic dataset
+- [Stable Alignment - Alignment Learning in Social Games](https://github.com/agi-templar/Stable-Alignment)
+  - Ruibo Liu, Ruixin (Ray) Yang, Qiang Peng
+  - Keyword: Interaction data used for alignment training, Run in Sandbox
+  - Task: Train on the recorded interaction data in simulated social games
+- [LIMA](https://huggingface.co/datasets/GAIR/lima)
+  - Meta AI
+  - Keyword: without any RLHF, few carefully curated prompts and responses
+  - Task: Dataset used for training the LIMA model
