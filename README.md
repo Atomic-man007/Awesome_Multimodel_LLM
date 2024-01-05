@@ -26,7 +26,7 @@
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
   - [Datasets of In-Context Learning](#datasets-of-in-context-learning)
   - [Datasets of Multimodal Chain-of-Thought](#datasets-of-multimodal-chain-of-thought)
-  - [Dataset](#RLHFdataset)
+  - [RLHFdataset](#RLHFdataset)
 
 ---
 ## Trending LLM Projects
