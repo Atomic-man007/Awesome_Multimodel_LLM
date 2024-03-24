@@ -624,3 +624,9 @@ We build a decision flow for choosing LLMs or fine-tuned models~\protect\footnot
   - Meta AI
   - Keyword: without any RLHF, few carefully curated prompts and responses
   - Task: Dataset used for training the LIMA model
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Atomic-man007/Awesome_Multimodel_LLM&type=Date)](https://star-history.com/#Atomic-man007/Awesome_Multimodel_LLM)
