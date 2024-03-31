@@ -7,7 +7,7 @@
 
 ✨✨✨ This compilation shall forever stay in sync with the vanguard of breakthroughs in the realm of MLLM. 🔄 We are committed to its perpetual evolution, ensuring that you never miss out on the latest developments. 🚀💡
 
-✨✨✨ And hold your breath, for we are diligently crafting a survey paper on MLLM, which shall soon grace the world with its wisdom. Stay tuned for its grand debut! 🎉📑
+✨✨✨ And hold your breath, for we are diligently crafting a survey paper on latest LLM & MLLM, which shall soon grace the world with its wisdom. Stay tuned for its grand debut! 🎉📑
 
 ![](/resources/LLMS.png)
 ---
