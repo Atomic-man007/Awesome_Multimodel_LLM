@@ -634,7 +634,10 @@ We build a decision flow for choosing LLMs or fine-tuned models~\protect\footnot
   - Keyword: without any RLHF, few carefully curated prompts and responses
   - Task: Dataset used for training the LIMA model
 
-
+# Test data/user data
+- **Shortcut learning of large language models in natural language understanding: A survey**, Arxiv 2023. [Paper](https://arxiv.org/abs/2208.11857)
+- **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective** Arxiv, 2023. [Paper](https://arxiv.org/abs/2302.12095)
+- **SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems** Arxiv 2019. [Paper](https://arxiv.org/abs/1905.00537)
 
 ## Star History
 
