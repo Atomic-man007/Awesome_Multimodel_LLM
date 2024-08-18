@@ -29,7 +29,11 @@
   - [RLHFdataset](#RLHFdataset)
 
 ----
+## LLM Learning MindMap
+![](/resources/LLM_Learning_MindMap.png)
+
 ![](/resources/llm.png)
+
 ---
 ## Trending LLM Projects
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
