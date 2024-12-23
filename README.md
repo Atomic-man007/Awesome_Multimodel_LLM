@@ -260,6 +260,7 @@
 ## Others
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/1zhou-Wang/MemVR.svg?style=social&label=Star) <br> [**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**](https://arxiv.org/pdf/2410.03577.pdf) <br> | arXiv | 2024-10-07 | [Github](https://github.com/1zhou-Wang/MemVR) | - |
 | ![Star](https://img.shields.io/github/stars/jonathan-roberts1/charting-new-territories.svg?style=social&label=Star) <br> [**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**](https://arxiv.org/pdf/2311.14656.pdf) <br> | arXiv | 2023-11-24 | [Github](https://github.com/jonathan-roberts1/charting-new-territories) | - |
 | [**Can Large Pre-trained Models Help Vision Models on Perception Tasks?**](https://arxiv.org/pdf/2306.00693.pdf) | arXiv | 2023-06-01 | [Coming soon]() | - | 
 | ![Star](https://img.shields.io/github/stars/yuhangzang/ContextDET.svg?style=social&label=Star) <br> [**Contextual Object Detection with Multimodal Large Language Models**](https://arxiv.org/pdf/2305.18279.pdf) <br> | arXiv | 2023-05-29 | [Github](https://github.com/yuhangzang/ContextDET) | [Demo](https://huggingface.co/spaces/yuhangzang/ContextDet-Demo) |
