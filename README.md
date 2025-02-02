@@ -28,6 +28,50 @@
   - [Datasets of Multimodal Chain-of-Thought](#datasets-of-multimodal-chain-of-thought)
   - [RLHFdataset](#RLHFdataset)
 
+
+* [Updates](#updates)
+* [Survey Introduction](#survey-introduction)
+* [Markups](#markups)
+* [Table of Contents](#table-of-contents)
+* [Related Surveys for LLMs Evaluation](#related-surveys-for-LLMs-evaluation)
+* [Papers](#papers)
+    * [Knowledge and Capability Evaluation](#booksknowledge-and-capability-evaluation)
+        * [Question Answering](#question-answering)
+        * [Knowledge Completion](#knowledge-completion)
+        * [Reasoning](#reasoning)
+            * [Commonsense Reasoning](#commonsense-reasoning)
+            * [Logical Reasoning](#logical-reasoning)
+            * [Multi-hop Reasoning](#multi-hop-reasoning)
+            * [Mathematical Reasoning](#mathematical-reasoning)
+        * [Tool Learning](#tool-learning)
+      
+    * [Alignment Evaluation](#triangular_ruleralignment-evaluation)
+        * [Ethics and Morality](#ethics-and-morality)
+        * [Bias](#bias)
+        * [Toxicity](#toxicity)
+        * [Truthfulness](#truthfulness)
+      * [General Alignment Evaluation](#general-alignment-evaluation)
+      
+    * [Safety Evaluation](#closed_lock_with_keysafety-evaluation)
+        * [Robustness Evaluation](#robustness-evaluation)
+        * [Risk Evaluation](#risk-evaluation)
+            * [Evaluating LLMs Behaviors](#evaluating-llms-behaviors)
+            * [Evaluating LLMs as Agents](#evaluating-llms-as-agents)
+      
+    * [Specialized LLMs Evaluation](#syringewoman_judgecomputermoneybagspecialized-llms-evaluation)
+        * [Biology and Medicine](#biology-and-medicine)
+        * [Education](#education)
+        * [Legislation](#legislation)
+        * [Computer Science](#computer-science)
+        * [Finance](#finance)
+      
+    * [Evaluation Organization](#earth_americasevaluation-organization)
+        * [Benchmarks for NLU and NLG](#benchmarks-for-nlu-and-nlg)
+        * [Benchmarks for Knowledge and Reasoning](#benchmarks-for-knowledge-and-reasoning)
+        * [Benchmark for Holistic Evaluation](#benchmark-for-holistic-evaluation)
+      
+    * [LLM Leaderboards](#llm-leaderboards)
+      
 ----
 ## LLM Learning MindMap
 ![](/resources/LLM_Learning_MindMap.png)
