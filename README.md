@@ -981,6 +981,10 @@ We build a decision flow for choosing LLMs or fine-tuned models~\protect\footnot
 
     *Hui Zeng* *et al.* arXiv 2023. [[Paper](https://arxiv.org/ftp/arxiv/papers/2308/2308.04823.pdf)] [[Source](http://cgeval.besteasy.com/)] [[GitHub](https://github.com/Felixgithub2017/CG-Eval)] 
 
+9. MMESGBench: **"MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks"**. ![](https://img.shields.io/badge/Dataset-blue)
+
+    *Lei Zhang et al.* ACM MM 2025. [[Paper](https://arxiv.org/abs/2507.18932)] [[GitHub](https://github.com/Zhanglei1103/MMESGBench)] 
+
 #### Benchmark for Holistic Evaluation
 
 1. Big-bench: **"Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"**. ![](https://img.shields.io/badge/Dataset-blue)
