@@ -526,6 +526,7 @@
 - [ModelFusion](https://github.com/lgrammel/modelfusion) - A TypeScript library for building apps with LLMs and other ML models (speech-to-text, text-to-speech, image generation).
 - [Flappy](https://github.com/pleisto/flappy) — Production-Ready LLM Agent SDK for Every Developer.
 - [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down
+- [Future AGI](https://github.com/future-agi/future-agi) — Open-source, self-hostable platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop.
 
 ## Datasets of In-Context Learning
 
