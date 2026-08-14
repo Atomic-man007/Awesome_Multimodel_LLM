@@ -1067,4 +1067,4 @@ We build a decision flow for choosing LLMs or fine-tuned models~\protect\footnot
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Atomic-man007/Awesome_Multimodel_LLM&type=Date)](https://star-history.com/#Atomic-man007/Awesome_Multimodel_LLM)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Atomic-man007/Awesome_Multimodel_LLM&type=Date)](https://star-history.dera.page/#Atomic-man007/Awesome_Multimodel_LLM)
