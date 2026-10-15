@@ -161,6 +161,8 @@
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/MCG-NJU/OneStreamer.svg?style=social&label=Star) <br> [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**](https://arxiv.org/abs/2610.01762) | arXiv 2026 | 2026-10-01 | [Github](https://github.com/MCG-NJU/OneStreamer) | - |
+| ![Star](https://img.shields.io/github/stars/MCG-NJU/TimeLens2.svg?style=social&label=Star) <br> [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**](https://arxiv.org/abs/2607.17423) | arXiv 2026 | 2026-07-19 | [Github](https://github.com/MCG-NJU/TimeLens2) | - |
 | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star) <br> [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/pdf/2306.05424.pdf) <br> | arXiv | 2023-06-08 | [Github](https://github.com/mbzuai-oryx/Video-ChatGPT) | [Demo](https://www.ival-mbzuai.com/video-chatgpt) |
 | ![Star](https://img.shields.io/github/stars/Luodian/Otter.svg?style=social&label=Star) <br> [**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/pdf/2306.05425.pdf) <br> | arXiv | 2023-06-08 | [Github](https://github.com/Luodian/Otter) | [Demo](https://otter.cliangyu.com/) |
 | [**M<sup>3</sup>IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**](https://arxiv.org/pdf/2306.04387.pdf) | arXiv | 2023-06-07 | - | - | 
@@ -203,6 +205,7 @@
 ## Multimodal Chain-of-Thought
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/MCG-NJU/Video-o3.svg?style=social&label=Star) <br> [**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**](https://arxiv.org/abs/2601.23224) | ICML 2026 | 2026-01-30 | [Github](https://github.com/MCG-NJU/Video-o3) | - |
 | ![Star](https://img.shields.io/github/stars/yu-rp/VisualPerceptionToken.svg?style=social&label=Star) <br> [**Introducing Visual Perception Token into Multimodal Large Language Model**](https://arxiv.org/pdf/2502.17425.pdf) <br> | arXiv | 2025-02-24 | [Github](https://github.com/yu-rp/VisualPerceptionToken) | - | 
 | ![Star](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch.svg?style=social&label=Star) <br> [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://arxiv.org/pdf/2305.15021.pdf) <br> | arXiv | 2023-05-24 | [Github](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) | - | 
 | [**Let’s Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction**](https://arxiv.org/pdf/2305.13903.pdf) | arXiv | 2023-05-23 | - | - |
@@ -239,6 +242,7 @@
 ## Foundation Models
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/MCG-NJU/VideoChat3.svg?style=social&label=Star) <br> [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935) | arXiv 2026 | 2026-07-16 | [Github](https://github.com/MCG-NJU/VideoChat3) | - |
 | ![Star](https://img.shields.io/github/stars/VPGTrans/VPGTrans.svg?style=social&label=Star) <br> [**Transfer Visual Prompt Generator across LLMs**](https://arxiv.org/pdf/2305.01278.pdf) <br> | arXiv | 2023-05-02 | [Github](https://github.com/VPGTrans/VPGTrans) | [Demo](https://3fc7715dbc44234a7f.gradio.live/) | 
 | [**GPT-4 Technical Report**](https://arxiv.org/pdf/2303.08774.pdf) | arXiv | 2023-03-15 | - | - |
 | [**PaLM-E: An Embodied Multimodal Language Model**](https://arxiv.org/pdf/2303.03378.pdf) | arXiv | 2023-03-06 | - | [Demo](https://palm-e.github.io/#demo) | 
@@ -305,6 +309,8 @@
 ## Others
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/MCG-NJU/VideoJev.svg?style=social&label=Star) <br> [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615) | arXiv 2026 | 2026-10-13 | [Github](https://github.com/MCG-NJU/VideoJev) | - |
+| ![Star](https://img.shields.io/github/stars/MCG-NJU/FreeRet.svg?style=social&label=Star) <br> [**FreeRet: MLLMs as Training-Free Retrievers**](https://arxiv.org/abs/2509.24621) | ICML 2026 | 2025-09-29 | [Github](https://github.com/MCG-NJU/FreeRet) | - |
 | ![Star](https://img.shields.io/github/stars/1zhou-Wang/MemVR.svg?style=social&label=Star) <br> [**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**](https://arxiv.org/pdf/2410.03577.pdf) <br> | arXiv | 2024-10-07 | [Github](https://github.com/1zhou-Wang/MemVR) | - |
 | ![Star](https://img.shields.io/github/stars/jonathan-roberts1/charting-new-territories.svg?style=social&label=Star) <br> [**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**](https://arxiv.org/pdf/2311.14656.pdf) <br> | arXiv | 2023-11-24 | [Github](https://github.com/jonathan-roberts1/charting-new-territories) | - |
 | [**Can Large Pre-trained Models Help Vision Models on Perception Tasks?**](https://arxiv.org/pdf/2306.00693.pdf) | arXiv | 2023-06-01 | [Coming soon]() | - | 
