@@ -536,6 +536,7 @@
 - [Flappy](https://github.com/pleisto/flappy) — Production-Ready LLM Agent SDK for Every Developer.
 - [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down
 - [Future AGI](https://github.com/future-agi/future-agi) — Open-source, self-hostable platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop.
+- [Prompt Generator](https://trypromptgenerator.com) - A freemium web app that writes prompts in the syntax of the AI tool you pick (ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more), including image to prompt from an uploaded picture. 10 free prompts a day without an account.
 
 ## Datasets of In-Context Learning
 
