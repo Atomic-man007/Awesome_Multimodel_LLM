@@ -995,6 +995,10 @@ We build a decision flow for choosing LLMs or fine-tuned models~\protect\footnot
 
     *Lei Zhang et al.* ACM MM 2025. [[Paper](https://arxiv.org/abs/2507.18932)] [[GitHub](https://github.com/Zhanglei1103/MMESGBench)] 
 
+10. Cross-Task Dissociation: **"Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind"**. ![](https://img.shields.io/badge/Dataset-blue)
+
+    *Kejia Zhang et al.* EMNLP Findings 2026. [[Paper](https://arxiv.org/abs/2608.00261)] 
+
 #### Benchmark for Holistic Evaluation
 
 1. Big-bench: **"Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"**. ![](https://img.shields.io/badge/Dataset-blue)
